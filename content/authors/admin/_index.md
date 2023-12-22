@@ -30,16 +30,16 @@ bio: I am a computer physicist in soft matter and fluids at interfaces at LIPhy 
 
 # Interests to show in About widget
 interests:
-  - Soft Matter
-  - Fluid at interface
-  - Computer simulations
+  - Natural Language Processing
+  - Computer Vision
+  - Multimodal Machine Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Nanofluidics
-      institution: University of Lyon (France)
-      year: 2015
+    - course: MSc in Computer Science
+      institution: Athens University of Economics and Business (Greece)
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
