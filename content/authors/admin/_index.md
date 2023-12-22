@@ -2,11 +2,11 @@
 
 
 # Display name
-title: Simon Gravelle
+title: Panagiotis Kaliosis
 
 # Full name (for SEO)
-first_name: Simon
-last_name: Gravelle
+first_name: Panagiotis
+last_name: Kaliosis
 
 # Status emoji
 status:
@@ -16,12 +16,14 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MSCA Fellow and CNRS future recruit
+role: Research Assistant @AUEB and @NCSR Demokritos
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: LIPhy, University Grenoble Alpes
-    url: https://liphy.univ-grenoble-alpes.fr/
+  - name: AUEB NLP Group, Information Processing Laboratory, Athens University of Economics and Business
+    url: (http://nlp.cs.aueb.gr/)
+  - name: Multimedia Analysis Group, Computational Intelligence Laboratory, National Center for Scientific Research "Demokritos"
+    url: (https://labs-repos.iit.demokritos.gr/MagCIL/)
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a computer physicist in soft matter and fluids at interfaces at LIPhy in Grenoble, France.
