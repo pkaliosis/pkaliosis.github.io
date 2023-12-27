@@ -78,8 +78,9 @@ highlight_name: true
 
 I have recently completed my MSc in Computer Science at Athens University of Economics and Business (AUEB). I conducted my thesis titled ["Exploring Unimodal, Multimodal and Few-Shot Deep Learning Methods for Diagnostic Captioning"](https://www2.aueb.gr/users/ion/docs/p_kaliosis_msc_thesis.pdf) under the supervision of Prof. [Ion Androutsopoulos](https://www2.aueb.gr/users/ion/) and [John Pavlopoulos](https://ipavlopoulos.github.io/). Since April 2023, I have been serving as a Research Assistant at the [Computational Intelligence Laboratory](https://www.iit.demokritos.gr/el/labs/cil/) of the National Center for Scientific Research "Demokritos", while I am also affiliated and actively involved within the [NLP Group](http://nlp.cs.aueb.gr/) at Athens University of Economics and Business.
 
-**Open source and open data**
+**Ongoing & Past Research Projects**
 
-* [MAICoS](https://maicos-devel.gitlab.io/maicos/index.html), a Python toolkit for analyzing confined molecular simulations
-* [NMRforMD](https://nmrformd.readthedocs.io), a Python script for calculating hydrogen NMR relaxation rates from molecular dynamics simulations
-* [Github](https://github.com/simongravelle/) repository containing molecular simulation scripts and data
+* [SmartSubs]([https://maicos-devel.gitlab.io/maicos/index.html](https://www.iit.demokritos.gr/el/projects/smart-subs/)), a speech-enabled system for
+real-time automatic captioning of theatrical plays.
+* [Diagnostic Captioning]([https://nmrformd.readthedocs.io](https://www.athenarc.gr/en/news/distinction-international-artificial-intelligence-competition)), development of deep learning-based systems for the automatic generation of diagnostic captions for medical images.
+* [e-Prevention Challenge]([https://github.com/simongravelle/](https://robotics.ntua.gr/icassp2024-eprevention-spgc/)), development of self-supervised methods for the early prediction and identification of mental health relapses via the analysis and processing of the digital phenotype of patients in the psychotic spectrum.
