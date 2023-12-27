@@ -76,7 +76,7 @@ highlight_name: true
 
 **About me**
 
-I am a physicist in soft matter and fluids at interfaces at [LIPhy](https://liphy.univ-grenoble-alpes.fr/) in Grenoble (France). In 2022 I received a [MSCA](https://marie-sklodowska-curie-actions.ec.europa.eu/) grant (*NanoSep*) to study the demixing of fluid mixtures by hybrid nanoporous materials, and I will soon be working at [CNRS](https://www.cnrs.fr/).
+I have recently completed my MSc in Computer Science at Athens University of Economics and Business (AUEB). I conducted my thesis titled ["Exploring Unimodal, Multimodal and Few-Shot Deep Learning Methods for Diagnostic Captioning"](https://www2.aueb.gr/users/ion/docs/p_kaliosis_msc_thesis.pdf) under the supervision of Prof. [Ion Androutsopoulos](https://www2.aueb.gr/users/ion/) and [John Pavlopoulos](https://ipavlopoulos.github.io/). Since April 2023, I have been serving as a Research Assistant at the [Computational Intelligence Laboratory](https://www.iit.demokritos.gr/el/labs/cil/) of the National Center for Scientific Research "Demokritos", while I am also affiliated and actively involved within the [NLP Group](http://nlp.cs.aueb.gr/) at Athens University of Economics and Business.
 
 **Open source and open data**
 
