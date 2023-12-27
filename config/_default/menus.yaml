@@ -22,11 +22,11 @@ main:
  #   url: '/files/cv.pdf'
  #   weight: 70
   
-# Sub-home menu
-#  - name: About
-#    url: '#about'
-#    parent: " "
-#    weight: 50
+Sub-home menu
+  - name: About
+    url: '#about'
+    parent: " "
+    weight: 50
 #  - name: Background
 #    url: '#cv'
 #    parent: " "
