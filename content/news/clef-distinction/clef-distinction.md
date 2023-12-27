@@ -6,10 +6,10 @@ image:
   caption: AUEB NLP Group Biomedical sub-group picture
   focal_point: Smart
 slides: example
-summary: Distinction in the annual ImageCLEFmedical Competition
+summary: We ranked 1st and 3rd in the Caption task of this year's competition.
 tags:
 - Personal
-title: We ranked 1st and 3rd in the Caption task of this year's competition.
+title: Distinction in the annual ImageCLEFmedical Competition
 links:
   - icon_pack: fas
     icon: scroll
