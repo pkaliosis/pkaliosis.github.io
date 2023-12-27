@@ -49,21 +49,18 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:simon.gravelle@live.fr
+    link: mailto:pkaliosis@aueb.gr
     # link: '/#contact'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GravelleSimon
     label: Follow me on Twitter
-  - icon: mastodon
-    icon_pack: fab
-    link: https://mastodon.social/@simongravelle
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=9fD2JlYAAAAJ&hl=fr
+    link: https://scholar.google.com/citations?user=Bku_WZcAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/simongravelle
+    link: https://github.com/pkaliosis
     display:
       header: true
   - icon: cv
