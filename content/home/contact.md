@@ -16,7 +16,7 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: simon.gravelle@live.fr
+  email: pkaliosis@aueb.gr
 
 design:
   columns: '2'
