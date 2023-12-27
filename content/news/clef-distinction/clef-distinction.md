@@ -9,7 +9,7 @@ slides: example
 summary: Distinction in the annual ImageCLEFmedical Competition
 tags:
 - Personal
-title: Distinction in the annual ImageCLEFmedical Competition
+title: We ranked 1st and 3rd in the Caption task of this year's competition.
 links:
   - icon_pack: fas
     icon: scroll
