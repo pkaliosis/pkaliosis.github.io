@@ -9,6 +9,10 @@ main:
   - name: Home
     url: '/index.html'
     weight: 10
+  - name: About
+    url: '/about.html'
+    parent: " "
+    weight: 50
   - name: News
     url: '/news.html'
     weight: 30
