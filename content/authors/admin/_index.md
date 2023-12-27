@@ -26,7 +26,7 @@ organizations:
     url: (https://labs-repos.iit.demokritos.gr/MagCIL/)
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a computer physicist in soft matter and fluids at interfaces at LIPhy in Grenoble, France.
+bio: I am a Machine Learning Research Engineer working on multimodal machine learning. I am affiliated with Athens University of Economics and Business, as well as the National Center for Scientific Research "Demokritos".
 
 # Interests to show in About widget
 interests:
