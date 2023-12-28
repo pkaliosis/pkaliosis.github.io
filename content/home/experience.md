@@ -31,7 +31,8 @@ experience:
     location: Athens, Greece
     date_start: '2023-04-01'
     date_end: ''
-    description: |2- * Worked on the development of the [Smartsubs](https://www.iit.demokritos.gr/el/projects/smart-subs/) national research project, which aimed at developing a speech-enabled system for the automatic captioning of theatrical plays.
+    description: |
+            * Worked on the development of the [Smartsubs](https://www.iit.demokritos.gr/el/projects/smart-subs/) national research project, which aimed at developing a speech-enabled system for the automatic captioning of theatrical plays.
             * Conducting research on the development of multimodal methods for identifying Alzheimer's disease through the analysis of speech signals.
             * Currently engaged in an ongoing ICASSP 2024 challenge which aims to detect psychotic relapses in patients utilizing wearable sensors.
 
