@@ -17,7 +17,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: pkaliosis@aueb.gr
-  email: pkaliosis@iit.demokritos.gr
+  email-2: pkaliosis@iit.demokritos.gr
 
 design:
   columns: '2'
