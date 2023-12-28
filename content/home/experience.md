@@ -27,7 +27,6 @@ experience:
   - title: Research Assistant
     company: National Center for Scientific Research "Demokritos"
     company_url: 'https://www.demokritos.gr/'
-    company_logo: org-gc
     location: Athens, Greece
     date_start: '2023-04-01'
     date_end: ''
@@ -39,7 +38,6 @@ experience:
   - title: Research & Teaching Assistant
     company: Athens University of Economics and Business
     company_url: 'https://www.aueb.gr/'
-    company_logo: org-x
     location: Athens, Greece
     date_start: '2022-10-20'
     date_end: ''
