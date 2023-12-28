@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -24,29 +24,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Research Assistant
+    company: National Center for Scientific Research "Demokritos"
+    company_url: 'https://www.demokritos.gr/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Athens, Greece
+    date_start: '2023-04-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: * Worked on the development of the [Smartsubs](https://www.iit.demokritos.gr/el/projects/smart-subs/) national research project, which aimed at developing a speech-enabled system for the automatic captioning of theatrical plays.
+            * Conducting research on the development of multimodal methods for identifying Alzheimer's disease through the analysis of speech signals.
+            * Currently engaged in an ongoing ICASSP 2024 challenge which aims to detect psychotic relapses in patients utilizing wearable sensors.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Research & Teaching Assistant
+    company: Athens University of Economics and Business
+    company_url: 'https://www.aueb.gr/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    location: Athens, Greece
+    date_start: '2022-10-20'
+    date_end: ''
+    description: Conducting research on Diagnostic Captioning | Mostly focused on the development of multimodal and/or few-shot learning captioning systems applied on the biomedical domain.
 design:
   columns: '2'
 ---
