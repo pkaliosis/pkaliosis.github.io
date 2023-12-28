@@ -9,7 +9,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:
+subtitle: Feel free to contact me at any of the available e-mail addresses!
 
 content:
   # Automatically link email and phone or display as text?
@@ -17,6 +17,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: pkaliosis@aueb.gr
+  email: pkaliosis@iit.demokritos.gr
 
 design:
   columns: '2'
