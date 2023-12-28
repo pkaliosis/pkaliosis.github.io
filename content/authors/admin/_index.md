@@ -80,7 +80,7 @@ I have recently completed my MSc in Computer Science at Athens University of Eco
 
 **Ongoing & Past Research Projects**
 
-* [SmartSubs]([https://maicos-devel.gitlab.io/maicos/index.html](https://www.iit.demokritos.gr/el/projects/smart-subs/)), a speech-enabled system for
+* [SmartSubs](https://www.iit.demokritos.gr/el/projects/smart-subs/), a speech-enabled system for
 real-time automatic captioning of theatrical plays.
-* [Diagnostic Captioning]([https://nmrformd.readthedocs.io](https://www.athenarc.gr/en/news/distinction-international-artificial-intelligence-competition)), development of deep learning-based systems for the automatic generation of diagnostic captions for medical images.
-* [e-Prevention Challenge]([https://github.com/simongravelle/](https://robotics.ntua.gr/icassp2024-eprevention-spgc/)), development of self-supervised methods for the early prediction and identification of mental health relapses via the analysis and processing of the digital phenotype of patients in the psychotic spectrum.
+* [Diagnostic Captioning](https://www.athenarc.gr/en/news/distinction-international-artificial-intelligence-competition), development of deep learning-based systems for the automatic generation of diagnostic captions for medical images.
+* [e-Prevention Challenge](https://robotics.ntua.gr/icassp2024-eprevention-spgc/), development of self-supervised methods for the early prediction and identification of mental health relapses via the analysis and processing of the digital phenotype of patients in the psychotic spectrum.
