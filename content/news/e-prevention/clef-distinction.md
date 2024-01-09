@@ -19,7 +19,7 @@ links:
     icon: scroll
     name: ICASSP 2024
     url: 'https://2024.ieeeicassp.org/'
-   - icon_pack: fas
+  - icon_pack: fas
     icon: scroll
     name: MagCIL, NCSR "Demokritos"
     url: 'https://pkaliosis.github.io/#ZgotmplZ'
