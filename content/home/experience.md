@@ -45,7 +45,7 @@ experience:
 design:
   columns: '2'
 
-- title: Research/Software Engineer
+  - title: Research/Software Engineer
     company: KTH - Royal Institute of Technology
     company_url: 'https://www.kth.se'
     location: Stockholm, Sweden
