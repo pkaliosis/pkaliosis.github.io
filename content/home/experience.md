@@ -42,10 +42,8 @@ experience:
     date_start: '2022-10-20'
     date_end: ''
     description: Conducting research on Diagnostic Captioning | Mostly focused on the development of multimodal and/or few-shot learning captioning systems applied on the biomedical domain.
-design:
-  columns: '2'
 
-  - title: Research/Software Engineer
+    - title: Research/Software Engineer
     company: KTH - Royal Institute of Technology
     company_url: 'https://www.kth.se'
     location: Stockholm, Sweden
@@ -54,4 +52,5 @@ design:
     description: Conducting research on Graph Machine Learning (GraphML) and AI-driven Databases as part of the [OrbDB Team](https://orbdb.github.io). This is a project funded by the [Wallenberg Launch Pad (WALP)](https://wasp-sweden.org/opportunities/wallenberg-launchpad-walp/)
 design:
   columns: '2'
+
 ---
