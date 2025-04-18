@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student at Stony Brook University -- <a href='https://www3.cs.stonybrook.edu/~cvl/'>Computer Vision Laboratory</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profileimage.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Computer Vision Lab (CVLab)</p>
+    <p>Stony Brook University, New York, USA, 11790</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -19,16 +18,18 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 10 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a first-year PhD student in Computer Science at Stony Brook University, NY, USA, advised by Prof.<a href='https://www3.cs.stonybrook.edu/~samaras/'> Dimitris Samaras</a>.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests lie in the fields of Computer Vision and Natural Language Processing with focus on Multimodal Learning. I am currently working on interdisciplinary research inspired by Cognitive and Computational Social Science. Specifically, I work towards enhancing the visual perception of Vision-Language Models, while I am also looking into evaluating the capabilities of modern LLMs in psychological assessments. I am fortunate to be advised by <a href='https://www3.cs.stonybrook.edu/~samaras/'>Prof. Dimitris Samaras</a>, while I also collaborate with <a href ='https://www3.cs.stonybrook.edu/~has/'>Prof. Andrew Schwartz</a> and <a href='https://owenrambow.com'>Prof. Owen Rambow</a>. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I was a Research Engineer at the Computational Intelligence Laboratory (MagCIL) of NCSR Demokritos working on multimodal learning with <a href='https://tyiannak.github.io/index.html'>Dr. Theodoros Giannakopoulos</a>. Before joining SBU, I obtained my undergrad and master's degree at Athens University of Economics and Business working with Assistant <a href='https://ipavlopoulos.github.io'>Prof. John Pavlopoulos</a> and <a href='https://www2.aueb.gr/users/ion/'>Prof. Ion Androutsopoulos</a>.
+
+I am also an active member of <a href='https://orbdb.github.io'>OrbDB</a>, led by <a href='https://soniahorchidan.github.io'>Sonia Horchidan</a> and <a href='https://people.kth.se/~parisc/'>Prof. Paris Carbone</a>, based in <a href='https://www.kth.se/en'>KTH Royal Institute of Technology, Stockholm, Sweden</a>. Read more about our work <a href='https://ceur-ws.org/Vol-3443/ESWC_2023_DMKG_paper_6223.pdf'>here</a> and reach out if ypu find it cool!
