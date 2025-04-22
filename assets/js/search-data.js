@@ -440,14 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-am-starting-my-phd-in-computer-science-at-stony-brook-university-advised-by-prof-dimitris-samaras",
-          title: 'I am starting my PhD in Computer Science at Stony Brook University, advised...',
-          description: "",
-          section: "News",},{id: "news-our-paper-a-self-supervised-learning-approach-for-detecting-non-psychotic-relapses-using-wearable-based-digital-phenotyping-was-accepted-as-a-workshop-paper-at-icassp-2024",
+            },},{id: "news-our-paper-a-self-supervised-learning-approach-for-detecting-non-psychotic-relapses-using-wearable-based-digital-phenotyping-was-accepted-as-a-workshop-paper-at-icassp-2024",
           title: 'Our paper A self-supervised learning approach for detecting non-psychotic relapses using wearable-based digital...',
           description: "",
           section: "News",},{id: "news-our-paper-a-data-driven-guided-decoding-mechanism-for-diagnostic-captioning-got-accepted-in-acl-findings-2024",
           title: 'Our paper A Data-Driven Guided Decoding Mechanism for Diagnostic Captioning” got accepted in...',
+          description: "",
+          section: "News",},{id: "news-i-am-starting-my-phd-in-computer-science-at-stony-brook-university-advised-by-prof-dimitris-samaras",
+          title: 'I am starting my PhD in Computer Science at Stony Brook University, advised...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
