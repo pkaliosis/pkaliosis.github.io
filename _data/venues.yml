@@ -7,3 +7,11 @@
 
 "Vision":
   color: "#009f36"
+
+"ACL":
+  url: https://aclanthology.org/venues/acl/
+  color: "#EA0F08"
+
+"ICASSP":
+  url: https://2024.ieeeicassp.org
+  color: "#0865EA"
