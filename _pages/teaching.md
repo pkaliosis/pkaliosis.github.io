@@ -1,12 +1,12 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Served as a Teaching Assistant for Fall '22 (@AUEB) and Fall '24 (@Stony Brook University).
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Fall '24: Teaching Assistant for <a href="https://sites.google.com/view/cse512machinelearningfall2024/home">CSE512 - Machine Learning</a> alongside <a href="https://sites.google.com/site/yifansunwebsite/teaching-materials?authuser=0">Prof. Yifan Sun</a>.
 
-Organize your courses by years, topics, or universities, however you like!
+Fall '22: Teaching Assistant for INF112-Mathematics I alongside <a href="http://pages.cs.aueb.gr/~toumpis/">Prof. Stavros Toumpis</a>.
