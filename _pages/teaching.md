@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
+title: teaching
 description: Served as a Teaching Assistant for Fall '22 (@AUEB) and Fall '24 (@Stony Brook University).
 nav: true
 nav_order: 6
