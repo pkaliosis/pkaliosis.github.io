@@ -18,13 +18,13 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
         },{id: "nav-teaching",
-          title: "Teaching",
+          title: "teaching",
           description: "Served as a Teaching Assistant for Fall &#39;22 (@AUEB) and Fall &#39;24 (@Stony Brook University).",
           section: "Navigation",
           handler: () => {
@@ -406,6 +406,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-am-starting-my-phd-in-computer-science-at-stony-brook-university-advised-by-prof-dimitris-samaras",
           title: 'I am starting my PhD in Computer Science at Stony Brook University, advised...',
+          description: "",
+          section: "News",},{id: "news-served-as-a-reviewer-for-acl-arr-february-2025-cycle-and-cvpr-2025-base-workshop",
+          title: 'Served as a reviewer for ACL ARR (February 2025 Cycle) and CVPR 2025...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
