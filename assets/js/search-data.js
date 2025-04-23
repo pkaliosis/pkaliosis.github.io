@@ -24,8 +24,8 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          title: "Teaching",
+          description: "Served as a Teaching Assistant for Fall &#39;22 (@AUEB) and Fall &#39;24 (@Stony Brook University).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
