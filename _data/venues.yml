@@ -15,3 +15,7 @@
 "ICASSP":
   url: https://2024.ieeeicassp.org
   color: "#0865EA"
+
+"EMNLP":
+  url: https://aclanthology.org/venues/emnlp/
+  color: "#f4ea0b"
