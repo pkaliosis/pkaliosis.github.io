@@ -19,3 +19,11 @@
 "EMNLP":
   url: https://aclanthology.org/venues/emnlp/
   color: "#f4ea0b"
+
+"CLEF":
+  url: https://clef2025.clef-initiative.eu
+  color: "#1cba66"
+
+"Pre-print":
+  url: https://arxiv.org
+  color: "#c8cfcb"
