@@ -40,6 +40,37 @@
     abstract={During spontaneous conversations, speakers collaborate on novel referring expressions, which they can then re-use in subsequent conversations. Understanding such referring expressions is an important ability for an embodied agent, so that it can carry out tasks in the real world. This requires integrating and understanding language, vision, and conversational interaction. We study the capabilities of seven state-of-the-art Large Vision Language Models (LVLMs) as overhearers to a corpus of spontaneous conversations between pairs of human discourse participants engaged in a collaborative object-matching task. We find that such a task remains challenging for current LVLMs and they all fail to show a consistent performance improvement as they overhear more conversations from the same discourse participants repeating the same task for multiple rounds. We release our corpus and code for reproducibility and to facilitate future research.}
 }
 
+@inproceedings{triaridis-etal-2025-crex,
+    abbr={Pre-print},
+    title = {Improving Contrastive Learning for Referring Expression Counting},
+    author = {Wang, Zhengxiang and Li, Weiling and Kaliosis, Panagiotis and Rambow, Owen and Brennan, Susan},
+    booktitle = {Pre-print},
+    month = {March},
+    year = {2025},
+    location = {},
+    publisher = "",
+    url={https://arxiv.org/pdf/2505.22850},
+    google_scholar_id={eQOLeE2rZwMC},
+    selected={false},
+    pdf={https://arxiv.org/pdf/2505.22850},
+    venue={Pre-print},
+    additional_info={},
+    abstract={Object counting has progressed from class-specific models, which count only known categories, to class-agnostic models that generalize to unseen categories. The next challenge is Referring Expression Counting (REC), where the goal is to count objects based on fine-grained attributes and contextual differences. Existing methods struggle with distinguishing visually similar objects that belong to the same category but correspond to different referring expressions. To address this, we propose C-REX, a novel contrastive learning framework, based on supervised contrastive learning, designed to enhance discriminative representation learning. Unlike prior works, C-REX operates entirely within the image space, avoiding the misalignment issues of image-text contrastive learning, thus providing a more stable contrastive signal. It also guarantees a significantly larger pool of negative samples, leading to improved robustness in the learned representations. Moreover, we showcase that our framework is versatile and generic enough to be applied to other similar tasks like class-agnostic counting. To support our approach, we analyze the key components of sota detection-based models and identify that detecting object centroids instead of bounding boxes is the key common factor behind their success in counting tasks. We use this insight to design a simple yet effective detection-based baseline to build upon. Our experiments show that C-REX achieves state-of-the-art results in REC, outperforming previous methods by more than 22\% in MAE and more than 10\% in RMSE, while also demonstrating strong performance in class-agnostic counting.}
+}
+
+@inproceedings{chatzipapadopoulou-etal-2025-clef,
+  abbr={CLEF 2025},
+  author={Chatzipapadopoulou, Anna and Pantelidis, Ippokratis and Charalampakos, Foivos and Moschovis, Georgios Moschovis and Kalliakleidi, Kalliopi and Kaliosis Panagiotis and John Pavlopoulos and Ion Androutsopoulos},
+  title={AUEB NLP Group at ImageCLEFmedical Caption 2025},
+  year={2025},
+  url={http://nlp.cs.aueb.gr/pubs/ImageCLEF_2025_paper__AUEBNLPGROUP_.pdf},
+  booktitle={Conference and Labs of the Evaluation Forum (Working Notes)},
+  abstract={This article presents the methodology and results of AUEB NLP Group’s and Archimedes Unit’s participation in the 9th edition of the ImageCLEFmedical Caption evaluation campaign, addressing the Concept Detection, Caption Prediction, and Explainability tasks. The Concept Detection task involves the automatic association of biomedical images with relevant medical concepts, while the Caption Prediction task focuses on generating clinically meaningful diagnostic captions based on the content of these images. Building upon our previous work, we experimented extensively with image encoders based on Convolutional Neural Networks (CNNs) in combination with Feed-Forward Neural Network (FFNN) classifiers and ensemble approaches. To improve robustness and generalization, we developed diverse ensemble strategies that combine predictions across multiple architectures. Additionally, we applied a per-label thresholding method during inference, allowing the system to fine-tune decision boundaries for each concept individually. For the Caption Prediction task, we used InstructBLIP as the backbone of our pipeline to generate initial captions, which we then refined using a series of enhancement strategies. These included a retrieval-augmented Synthesizer that incorporates information from similar training images, a Multisynthesizer that additionally integrates concept predictions, and LM-Fuser, a lightweight model trained to combine multiple caption hypotheses. Furthermore, we applied the Distance from Median Maximum Concept Similarity (DMMCS) method to guide decoding toward concept-aware captions and used MedCLIP-based re-ranking to further improve visual-textual alignment. We also experimented with reinforcement learning via a mixed training objective that combines cross-entropy and task-specific rewards. In the Explainability task, we generated visual explanations by identifying and localizing key medical entities in the images using a structured prompting approach with GPT-4o. This involved extracting medical terms from generated captions and drawing bounding boxes to connect these terms to visual regions, thereby enhancing clinical decision transparency. Overall, our group ranked 1st in Concept Detection, 5th in Caption Prediction, and 1st in the Explainability task.},
+  location={Madrid, Spain},
+  selected={false}
+
+}
+
 @inproceedings{kaliosis-etal-2024-data,
     abbr={ACL},
     title = {A Data-Driven Guided Decoding Mechanism for Diagnostic Captioning},
@@ -123,6 +154,6 @@
   location={Thessaloniki, Greece},
   annotation={Work done while a member of the the NLP Group of AUEB},
   google_scholar_id={2osOgNQ5qMEC},
-  selected={True}
+  selected={false}
 
 }
