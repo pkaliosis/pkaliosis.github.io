@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper, led by <a href="https://scholar.google.com/citations?user=RRgyV58AAAAJ&hl=en">Peter Zeng</a>, accepted to <a href="https://2026.aclweb.org">ACL 2026</a> Main Conference!
+One <a href="https://arxiv.org/pdf/2601.19792">paper</a>, led by <a href="https://scholar.google.com/citations?user=RRgyV58AAAAJ&hl=en">Peter Zeng</a>, accepted to <a href="https://2026.aclweb.org">ACL 2026</a> Main Conference!
