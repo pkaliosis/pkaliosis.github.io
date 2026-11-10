@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a first-year PhD student in Computer Science at Stony Brook University, NY, USA, advised by Prof.<a href='https://www3.cs.stonybrook.edu/~samaras/'> Dimitris Samaras</a> and Prof.<a href='https://www3.cs.stonybrook.edu/~has/'> Andrew Schwartz.
+I am currently a third-year PhD student in Computer Science at Stony Brook University, NY, USA, advised by Prof.<a href='https://www3.cs.stonybrook.edu/~samaras/'> Dimitris Samaras</a> and Prof.<a href='https://www3.cs.stonybrook.edu/~has/'> Andrew Schwartz.
 
 My research interests lie in the fields of Computer Vision and Natural Language Processing with focus on Multimodal Learning. I am currently working on interdisciplinary research inspired by Cognitive and Computational Social Science. I am fortunate to be advised by <a href='https://www3.cs.stonybrook.edu/~samaras/'>Prof. Dimitris Samaras</a> and <a href ='https://www3.cs.stonybrook.edu/~has/'>Prof. Andrew Schwartz</a>, while I also collaborate with <a href='https://owenrambow.com'>Prof. Owen Rambow</a> and <a href='https://www.stonybrook.edu/commcms/psychology/faculty/faculty_profiles/gzelinsky'> Prof. Gregory Zelinsky</a>. 
 
